@@ -1,0 +1,3 @@
+本程序目前包括最小生成树，最短路相关算法，并且持续更新中
+最小生成树：kruskal算法 方法：Gta.kruskal
+最短路径：dijkstra算法：方法：Gta.dij
